@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Pins</string>
+    <string name="title_activity_map">Map</string>
+    <string name="add_pin">Add pin</string>
+    <string name="remove_pin">Remove pin</string>
+    <string name="no_located_marker">Please locate a pin on the map</string>
+    <string name="no_selected_marker">Please select a pin to delete</string>
+    <string name="marker_exists">This location is pinned already</string>
+    <string name="logout">Log out</string>
+    <string name="login_failed">Login failed</string>
+    <string name="button_retry">Retry</string>
+</resources>
